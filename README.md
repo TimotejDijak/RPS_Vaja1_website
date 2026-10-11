@@ -9,7 +9,7 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      text-align: center; /* Centrira vso besedilo in sliko /
+      text-align: center; /* Centrira vso besedilo in sliko */
       max-width: 700px;
       margin: 40px auto;
       padding: 0 20px;
