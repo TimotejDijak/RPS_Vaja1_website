@@ -1,5 +1,4 @@
-
-
+<!DOCTYPE html>
 <html lang="sl">
 <head>
   <meta charset="UTF-8">
@@ -13,7 +12,7 @@
       padding: 0 20px;
     }
     h1 {
-      color: #0066cc; /* Modra naslovna barva */
+      color: #0066cc; / Modra naslovna barva /
       margin-bottom: 20px;
     }
     h2 {
@@ -24,11 +23,11 @@
       color: #000000;
       line-height: 1.6;
     }
-    /* Oblikovanje slike */
+    / Oblikovanje slike /
     .laptop-slika {
       width: 100%;
       max-width: 650px;
-      border-radius: 12px; /* Zaobljeni robovi slikice */
+      border-radius: 12px; / Zaobljeni robovi slikice */
       margin-top: 25px;
     }
   </style>
@@ -37,7 +36,8 @@
   <h1>Razvoj produktov in storitev</h1>
   <h2>Moj prvi GitHub spletni projekt</h2>
   <p>Dobrodošli na moji prvi spletni strani! Pri tem predmetu se učimo, kako od ideje razviti pravi IT produkt. Spoznavamo sodobna orodja, kot je GitHub, ki nam omogočajo varno shranjevanje kode in sodelovanje v ekipi.</p>
-  <p>Začetek je vedno najtežji, a vsaka vrstica kode nas pripelje bližje cilju.</p>
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGFwdG9wJTIwd2l0aCUyMGNvZGV8ZW58MHx8MHx8fDA%3D" alt="Laptop s kodo" class="laptop-slika">
+  <p>Začetek je vedno najtežji, a vsaka vrstica kode nas pripelje bliže cilju.</p>
+  <!-- HTML slika z Unsplash URL-jem -->
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGFwdG9wJTIwd2l0aCUyMGNvZGV8ZW58MHx8MHx8fDA%3D" alt="Prenosnik s kodo" class="laptop-slika">
 </body>
 </html>
