@@ -1,5 +1,5 @@
 # RPS_Vaja1_website
-srnec firma malo jaca casti se pijaca 
+ 
 
 <!DOCTYPE html>
 <html lang="sl">
